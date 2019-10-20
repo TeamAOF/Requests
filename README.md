@@ -13,7 +13,7 @@ The only requirement is that you keep AOF modpack usage in mind. A request for a
 Below, you'll find a list of requests & ideas alongside a short description. An idea can also have a link to a file inside the repo which can contain more information on the mod-- try to move anything more than a few sentences into a separate file using this system.
 
 ### Requests & Ideas
-Overworld Ore Generation JSON Config: allow the user to specify & configure how ores are spawned in the overworld in a simple json file. Optionally allow for other dimensions as well.
-Storage System Mod: any sort of mod that adds in an AE2 style storage system.
+- **Overworld Ore Generation JSON Config**: allow the user to specify & configure how ores are spawned in the overworld in a simple json file. Optionally allow for other dimensions as well.
+- **Storage System Mod**: any sort of mod that adds in an AE2 style storage system.
 
 ### Completed Ideas
