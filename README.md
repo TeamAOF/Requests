@@ -15,5 +15,13 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 ### Requests & Ideas
 - **Food Hunger Scaling**: give less hunger from all existing foods, lower the speed you lose hunger, and increase the difficulty of getting standard food. This allows for higher tiered foods with actual value.
 - **Storage System Mod**: any sort of mod that adds in an AE2 style storage system.
+- **Generic Structures Mod**: adds an assortment of new structures and small dungeons to the world.
+- **Early Storage Solutions**: an AE2 inspired mod which pulls inventory space and items from nearby chests.
+- **RPG Enchantments**: a large collection of fantasy themed enchants.
+- **Simple Dungeons**: large procedurally generated dungeons, similar to Doomlike or Rougelike Dungeons
+- **Custom Portals**: place custom portal blocks and specify their location and destination. Uses enderpearls as fuel.
+- **Questing Advancements**: adds questing functionality to the advancements screen. Rewards, more requirements, and better challenges!
+- **Themed Caves**: biome caves with multiple different themes.
+- **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
 
 ### Completed Ideas
