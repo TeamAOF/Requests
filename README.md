@@ -23,5 +23,13 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Questing Advancements**: adds questing functionality to the advancements screen. Rewards, more requirements, and better challenges!
 - **Themed Caves**: biome caves with multiple different themes.
 - **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
+- **World Preview**: see an overview of your world before you generate it.
+- **World Generator**: pre-generate your world when you first load in.
+- **OpenSimplex Terrain**: replace standard terrain generator with OpenSimplex noise
+- **Season Library**: general purpose library for keeping track of seasons.
+  - **Seasonal Trees**: add red and orange hues to tree leaves depending on the season
+  - **Seasonal Biomes**: change biome temperature and precipitation based on season. It might snow in plains during winter!
+- **Better Item Drops**: make dropped items look a little bit nicer.
+- **Ore Clusters**: GregTech styled ore veins.
 
 ### Completed Ideas
