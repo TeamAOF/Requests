@@ -31,5 +31,6 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
   - **Seasonal Biomes**: change biome temperature and precipitation based on season. It might snow in plains during winter!
 - **Better Item Drops**: make dropped items look a little bit nicer.
 - **Ore Clusters**: GregTech styled ore veins.
+- **Miniboss Mobs**: %n chance for mobs to become mini-bosses, which increases their size, health, and strength.
 
 ### Completed Ideas
