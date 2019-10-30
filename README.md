@@ -32,5 +32,6 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Better Item Drops**: make dropped items look a little bit nicer.
 - **Ore Clusters**: GregTech styled ore veins.
 - **Miniboss Mobs**: %n chance for mobs to become mini-bosses, which increases their size, health, and strength.
+- **Difficulty Scaling**: method of keeping track of difficulty for bosses and instanced content. Difficulty would be based off the number of players present, the amount of clear times in the past, and each player's level of gear.
 
 ### Completed Ideas
