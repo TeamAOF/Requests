@@ -22,7 +22,6 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Custom Portals**: place custom portal blocks and specify their location and destination. Uses enderpearls as fuel.
 - **Questing Advancements**: adds questing functionality to the advancements screen. Rewards, more requirements, and better challenges!
 - **Themed Caves**: biome caves with multiple different themes.
-- **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
 - **World Preview**: see an overview of your world before you generate it.
 - **World Generator**: pre-generate your world when you first load in.
 - **OpenSimplex Terrain**: replace standard terrain generator with OpenSimplex noise
@@ -59,5 +58,23 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Natural Village Expanse**: villagers naturally grow out their village. Also has a chance for 2 villages to develop railway systems between eachother.
 - **Walled In**: mega villages surrounded by giant cobblestone walls. Guards patrol the entrance, and frequently war with neighboring pillagers.
 - **Not As Defenseless**: villages have guards that deal serious damage to pillagers and other enemies. Villagers are also smarter and head to bunkers while under attack. Pillagers increase their forces every time a village attack fails.
+- **Spotlight**: targetable & moveable spotlight that shines on a specific area.
+- **Mob Camps**: random chance (% increases as time goes on) for a hostile mob to start a mob camp. Begins as a small campfire, and evolves into a giant above-ground dungeon with patrols and armored enemies.
+- **Slime Time**: slime dimension! Giant slime boss, slime minions, gooey creepers, and more!
+- **User Structures**: allow the user to add in custom structures that spawn in their world. Consists of a structure nbt file and a config file that defines how and where the structure spawns.
+- **Area Displacer**: instead of quarries, use an Area Displacer to move all the blocks somewhere else one by one, and break them as they appear.
+- **Tougher Food**: an addition to the slower hunger loss mod which makes plants take more maintence to grow and manage. Weeds and worms included.
+- **Thirst**: add a thirst meter which can be filled by drinking from water source blocks or water bottles.
+- **Boss Music**: certain events trigger music. Intensity of the music depends on the player's distance from whatever is happening.
+- **Patchou... or not?**: guidebook API for devs.
+- **Nostalgia**: after defeating the Enderdragon, (https://youtu.be/xLfm2nnCOpc)[this] music plays. You're shown a panoramic of your home base and see the credits slowly roll in the right corner. The panoramic finishes right as you near the end of the credit story, at which time the credits take up the whole screen again, for the last (and most impactful) final words. Draw out the emotion you get after beating the elite 4! 
+- **Overview**: display information on what the player has done every night, similar to Stardew Valley. Show how many blocks they mined, how many steps they walked, and how much the local difficulty changed.
+- **Cloudy Sky**: https://i.imgur.com/Dqit8.gif
+- **Sweet Home**: a mod that works to encourage players to build cozy bases. Maybe lock certain actions, such as mining, until 15 days into the world?
+- **Family Home**: allow you to take a large variety of animals and companions. Create a giant paradise full of loyal wolves, defending polar bears, protective penguins, and crop-farming rabbits!
+- **Remixed**: add a large assortment of YouTube C418 music remixes to the background music pool.
+- **Not Shaders**: better rain with blurry vision, puddles, fog, muffled sounds, and the gentle sound of dancing rain.
 
 ### Completed Ideas
+- **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
+  - completed by B0undarybreaker with **OLBM**.
