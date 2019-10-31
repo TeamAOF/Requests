@@ -74,6 +74,9 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Family Home**: allow you to take a large variety of animals and companions. Create a giant paradise full of loyal wolves, defending polar bears, protective penguins, and crop-farming rabbits!
 - **Remixed**: add a large assortment of YouTube C418 music remixes to the background music pool.
 - **Not Shaders**: better rain with blurry vision, puddles, fog, muffled sounds, and the gentle sound of dancing rain.
+- **City Builder**: encourage the player to build large cities and towns, which invites villagers and new citizens. Maybe lock certain resources behind citizen trades?
+- **Asteroid Belt**: allow outer end islands to spawn at any height in the world.
+
 
 ### Completed Ideas
 - **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
