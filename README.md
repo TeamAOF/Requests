@@ -76,6 +76,7 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Not Shaders**: better rain with blurry vision, puddles, fog, muffled sounds, and the gentle sound of dancing rain.
 - **City Builder**: encourage the player to build large cities and towns, which invites villagers and new citizens. Maybe lock certain resources behind citizen trades?
 - **Asteroid Belt**: allow outer end islands to spawn at any height in the world.
+- **Village API**: API for adding village structures.
 
 
 ### Completed Ideas
