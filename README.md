@@ -78,6 +78,7 @@ Below, you'll find a list of requests & ideas alongside a short description. An 
 - **Asteroid Belt**: allow outer end islands to spawn at any height in the world.
 - **Village API**: API for adding village structures.
 - **Skill Leveling**: skills (mining, harvesting, lumbering) have levels, and you can't do certain actions without a level. For example, diamonds require level 15. One idea is to stay away from a numerical approach; keep numbers away from the user, and simply alert them to when new things can be mined (eg. "You notice a speck of blue while mining... maybe you should try and break it?"). Could also hide certain blocks, such as ores, until the correct level is hit.
+- **Cave Conquesting**: instead of small caves, the world is filled with huge tunnels that are detailed to look like mineshafts and digsites. Caves can have ore deposits at certain levels, but you'll have to clear through groups of mob camps to get to it. Styled with custom flooring, and depth blocks on the wall for detail.
 
 ### Completed Ideas
 - **Loot Bags**: any sort of loot bag mechanic which is obtained through quests and mob kills.
